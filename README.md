@@ -7,3 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # board-game
+
+# Getting started:
+1. Run `npm install``
+2. To start the server run `npm run dev`` and note down the PORT number
+3. The site can be found in **localhost:<PORT>**
