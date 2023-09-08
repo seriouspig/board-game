@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 # board-game
 
 # Getting started:
-1. Run `npm install``
-2. To start the server run `npm run dev`` and note down the PORT number
+1. Run `npm install`
+2. To start the server run `npm run dev` and note down the PORT number
 3. The site can be found in **localhost:<PORT>**
