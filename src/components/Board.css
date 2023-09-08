@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.board.container {
+  outline: 2px solid black;
+  position: relative;
+}
+
+.board.row {
+  display: flex;
+}
+
+.board.square {
+  width: 32px;
+  height: 32px;
+  border: 1px dashed black;
+}
+
+.wall {
+  background-color: grey;
+}
+
+.possible-move {
+  background-color: hotpink;
+  opacity: 0.2;
+}
+
+.possible-move:hover {
+  cursor: pointer;
+}

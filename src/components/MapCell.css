@@ -1,0 +1,25 @@
+
+.map-cell.container {
+  position: relative;
+  outline: 1px dashed grey;
+}
+
+.map-cell.row {
+  display: flex;
+}
+
+.map-cell.square {
+  width: 4px;
+  height: 4px;
+}
+
+.wall {
+  background-color: grey;
+}
+
+.map-cell.container.current-tile {
+    outline: 2px solid red;
+    /* background-color: red; */
+}
+
+
